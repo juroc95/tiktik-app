@@ -28,3 +28,4 @@ Start the development server by running ```npm run dev```
 - [Sanity](https://www.sanity.io/)
 
 ## Screenshot
+![스크린샷 2023-01-21 오전 2 27 14](https://user-images.githubusercontent.com/94903612/213862852-80ff7f88-13e9-4968-8c72-a84aa34c2e0f.png)
